@@ -137,8 +137,6 @@ class StudentDemoApplicationTests {
         assertEquals(50000.0, student.getSal()); 
     }
 	
-	//gfjhmjggjhgm
-	
 	
 
 }
